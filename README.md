@@ -1,1 +1,42 @@
 # auta-02.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Minha lista de compras</h3>
+    <ul>
+        <li>maçã</li>
+        <li>pão</li>
+        <li>leita</li>
+    </ul>
+    <h3>Passp a passo para aprender HTML:</h3>
+    <ol>
+        <li>Abrir o editor de código</li>
+        <li>Criar um arquivo index.html</li>
+        <li>Escrever as tags estruturais</li>
+        <li>Salvar e abrir o navegador</li>
+    </ol>
+    <h3>Boletim Escolar de TI</h3>
+    <table border="5">
+        <tr>
+            <th>Nome do aluno</th>
+            <th>Disciplina</th>
+            <th>nota final</th>
+        </tr>
+        <tr>
+            <td>Maria Silva</td>
+            <td>HTML5 e CSS3</td>
+            <td>9.5</td>
+        </tr>
+        <tr>
+            <td>João Pedro</td>
+            <td>Html5 e Css3</td>
+            <td>8.0</td>
+        </tr>
+    </table>
+</body>
+</html>
